@@ -69,21 +69,22 @@ I am very passionate about:
 <br>
 <hr>
 <br>
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">GitHub Stats & Currently</h3>
 
 <div align="center">
-
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=NoxiousMood&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
-  </a>
-
-  <h3 align="center">Currently</h3>
-
-<div align="center">
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
-    <img src="https://lanyard.cnrad.dev/api/1029414207403339806?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=15&idleMessage=Not+listening+to+anything...&mode=iframe" />
-  </a>
-
-  
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com/?user=NoxiousMood&theme=tokyonight&hide_border=true" height="160" alt="Streak" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://discord.com/users/1029414207403339806">
+          <img src="https://lanyard.cnrad.dev/api/1029414207403339806?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=15&idleMessage=Not+listening+to+anything...&mode=iframe" height="160" alt="Lanyard" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 <br>
