@@ -75,19 +75,19 @@ I am very passionate about:
   <table>
     <tr>
       <td valign="center">
-        <img src="https://github.com/NoxiousMood/app-assets/blob/main/PixelArtStickerbyGavinAvid-ezgif.com-rotate.gif?raw=true" width="100" />
+        <img src="https://github.com/NoxiousMood/app-assets/blob/main/PixelArtStickerbyGavinAvid-ezgif.com-rotate.gif?raw=true" width="190" />
       </td>
       <td align="center">
         <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com/?user=NoxiousMood&theme=tokyonight&hide_border=true" height="175" alt="Streak" />
+          <img src="https://streak-stats.demolab.com/?user=NoxiousMood&theme=tokyonight&hide_border=true" height="190" alt="Streak" />
         </a>
         <br>
         <a href="https://discord.com/users/1029414207403339806">
-          <img src="https://lanyard.cnrad.dev/api/1029414207403339806?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=15&idleMessage=Not+listening+to+anything...&mode=iframe" height="175" alt="Lanyard" />
+          <img src="https://lanyard.cnrad.dev/api/1029414207403339806?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=15&idleMessage=Not+listening+to+anything...&mode=iframe" height="220" alt="Lanyard" />
         </a>
       </td>
       <td valign="center">
-        <img src="https://github.com/NoxiousMood/app-assets/blob/main/Pixel%20Art%20Sticker%20by%20Gavin%20Avid.gif?raw=true" width="100" />
+        <img src="https://github.com/NoxiousMood/app-assets/blob/main/Pixel%20Art%20Sticker%20by%20Gavin%20Avid.gif?raw=true" width="190" />
       </td>
     </tr>
   </table>
