@@ -18,8 +18,10 @@ Technology has always fascinated me! My purpose? **Building applications that he
 
 I get really addicted to somethihng that sparks my creativity especially while **listening to music**, i love to repo and very love to work open source. I tend to be  **curious** when something that confuses me. 
 
-
-
+<br>
+<br>
+<br>
+<br>
 I am very passionate about:
 
 * **App Development** 📱 
@@ -28,9 +30,11 @@ I am very passionate about:
 * **listening to Music** 🎧
 <br clear="all" />
 <br>
+
 <br>
 <hr>
 <br>
+
 ### **Present Status**
 
 <img align="right" width="250" src="https://github.com/NoxiousMood/app-assets/blob/main/Pixel%20Art%20Sticker%20by%20Gavin%20Avid.gif" />
