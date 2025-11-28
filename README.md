@@ -63,7 +63,7 @@ I am very passionate about:
   </a>
 
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoxiousMood&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoxiousMood" height="150" alt="streak graph" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
