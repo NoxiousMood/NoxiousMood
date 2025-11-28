@@ -16,6 +16,8 @@ Technology has always fascinated me! My purpose? **Building applications that he
 
 <img align="right" width="300" src="https://github.com/NoxiousMood/app-assets/blob/main/Climate%20Change%203D%20Sticker%20by%20Emoji.gif?raw=true" alt="Spinning Earth" />
 
+I get really addicted to somethihng that sparks my creativity especially while **listening to music**, i love to repo and very love to work open source. I tend to be  **curious** when something that confuses me. 
+
 I am very passionate about:
 
 * **App Development** 📱 
