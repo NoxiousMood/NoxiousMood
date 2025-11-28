@@ -72,15 +72,24 @@ I am very passionate about:
 <h3 align="center">Currently</h3>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=NoxiousMood&theme=tokyonight&hide_border=true" height="160" alt="Streak" />
-  </a>
-<img align="right" width="250" src="https://github.com/NoxiousMood/app-assets/blob/main/Pixel%20Art%20Sticker%20by%20Gavin%20Avid.gif" />
-<img align="left" width="250" src="https://github.com/NoxiousMood/app-assets/blob/main/PixelArtStickerbyGavinAvid-ezgif.com-rotate.gif" />
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-
-  <a href="https://discord.com/users/1029414207403339806">
-    <img src="https://lanyard.cnrad.dev/api/1029414207403339806?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=15&idleMessage=Not+listening+to+anything...&mode=iframe" height="220" alt="Lanyard" />
-  </a>
+  <table>
+    <tr>
+      <td valign="center">
+        <img src="https://github.com/NoxiousMood/app-assets/blob/main/PixelArtStickerbyGavinAvid-ezgif.com-rotate.gif?raw=true" width="120" />
+      </td>
+      <td align="center">
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com/?user=NoxiousMood&theme=tokyonight&hide_border=true" height="150" alt="Streak" />
+        </a>
+        <br><br>
+        <a href="https://discord.com/users/1029414207403339806">
+          <img src="https://lanyard.cnrad.dev/api/1029414207403339806?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=15&idleMessage=Not+listening+to+anything...&mode=iframe" height="150" alt="Lanyard" />
+        </a>
+      </td>
+      <td valign="center">
+        <img src="https://github.com/NoxiousMood/app-assets/blob/main/Pixel%20Art%20Sticker%20by%20Gavin%20Avid.gif?raw=true" width="120" />
+      </td>
+    </tr>
+  </table>
 </div>
 <br>
