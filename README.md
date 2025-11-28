@@ -63,17 +63,13 @@ I am very passionate about:
 
 <div align="center">
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=NoxiousMood&theme=tokyonight&show_icons=true&hide_border=true" height="150" alt="stats graph" />
-  </a>
+ [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoxiousMood&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=NoxiousMood&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
   </a>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoxiousMood&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="Top Langs" />
-  </a>
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoxiousMood&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 <br>
