@@ -24,7 +24,7 @@ I am very passionate about:
 <br clear="all" />
 <br>
 
-### Present Status
+### **Present Status**
 
 <img align="right" width="200" src="https://github.com/NoxiousMood/app-assets/blob/main/Pixel%20Art%20Sticker%20by%20Gavin%20Avid.gif" />
 
@@ -55,3 +55,14 @@ I am very passionate about:
 **Launch:** Preparing for the first beta release of HandApp!
 
 <br clear="all" />
+<br>
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NoxiousMood&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoxiousMood&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" height="150" alt="streak graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoxiousMood&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+</div>
+<br>
