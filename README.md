@@ -26,7 +26,7 @@ I am very passionate about:
 
 ### Present Status
 
-<img align="right" width="200" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Pixel Art Camping" />
+<img align="right" width="200" src="https://github.com/NoxiousMood/app-assets/blob/main/Pixel%20Art%20Sticker%20by%20Gavin%20Avid.gif" />
 
 👉 Learning **Advanced Kodular Animations** & **UI/UX Design** 🎨
 
@@ -39,16 +39,19 @@ I am very passionate about:
 <br>
 
 ![Update](https://img.shields.io/badge/Update-Nov_28_2025-blue?style=flat-square)
+<br>
 **HandApp:** Started working on the new Logo and Torch assets.
 
 <br>
 
 ![Update](https://img.shields.io/badge/Update-Oct_2025-blueviolet?style=flat-square)
+<br>
 **BU Maps:** Planning the user interface for the university map.
 
 <br>
 
 ![Update](https://img.shields.io/badge/Update-Coming_Soon-orange?style=flat-square)
+<br>
 **Launch:** Preparing for the first beta release of HandApp!
 
 <br clear="all" />
