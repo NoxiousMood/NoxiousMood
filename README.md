@@ -35,7 +35,7 @@ I am very passionate about:
 
 ### **Present Status**
 
-<img align="right" width="250" src="https://github.com/NoxiousMood/app-assets/blob/main/Pixel%20Art%20Sticker%20by%20Gavin%20Avid.gif" />
+<img align="right" width="250" src="https://github.com/NoxiousMood/app-assets/blob/main/eat.gif" />
 
 👉 Learning **Advanced Kodular Animations** & **UI/UX Design** 🎨
 
