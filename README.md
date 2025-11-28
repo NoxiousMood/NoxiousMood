@@ -18,6 +18,8 @@ Technology has always fascinated me! My purpose? **Building applications that he
 
 I get really addicted to somethihng that sparks my creativity especially while **listening to music**, i love to repo and very love to work open source. I tend to be  **curious** when something that confuses me. 
 
+
+
 I am very passionate about:
 
 * **App Development** 📱 
