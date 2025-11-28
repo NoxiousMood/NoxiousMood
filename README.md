@@ -79,11 +79,11 @@ I am very passionate about:
       </td>
       <td align="center">
         <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com/?user=NoxiousMood&theme=tokyonight&hide_border=true" height="220" alt="Streak" />
+          <img src="https://streak-stats.demolab.com/?user=NoxiousMood&theme=tokyonight&hide_border=true" height="260" alt="Streak" />
         </a>
         <br>
         <a href="https://discord.com/users/1029414207403339806">
-          <img src="https://lanyard.cnrad.dev/api/1029414207403339806?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=15&idleMessage=Not+listening+to+anything...&mode=iframe" height="240" alt="Lanyard" />
+          <img src="https://lanyard.cnrad.dev/api/1029414207403339806?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=15&idleMessage=Not+listening+to+anything...&mode=iframe" height="290" alt="Lanyard" />
         </a>
       </td>
       <td valign="center">
