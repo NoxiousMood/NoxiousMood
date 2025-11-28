@@ -9,7 +9,7 @@
 </div>
 **Kamusta!**
 
-I'm a **NoxiusMood** a developer and creative designer from the Philippines.
+I'm **NoxiousMood**, a developer and creative designer from the Philippines.
 <br>
 Technology has always fascinated me! My purpose? **Building applications that help people stay safe and connected.** 🔥
 
@@ -55,16 +55,19 @@ I am very passionate about:
 **Launch:** Preparing for the first beta release of HandApp!
 
 <br clear="all" />
-<br>
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=NoxiousMood&theme=tokyonight&show_icons=true&hide_border=true" height="150" alt="stats graph" />
+  </a>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=NoxiousMood&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoxiousMood&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
+  </a>
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NoxiousMood&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoxiousMood&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoxiousMood&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph" />
+  </a>
 </div>
 <br>
