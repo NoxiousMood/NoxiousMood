@@ -79,7 +79,7 @@ I am very passionate about:
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
   <a href="https://discord.com/users/1029414207403339806">
-    <img src="https://lanyard.cnrad.dev/api/1029414207403339806?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=15&idleMessage=Not+listening+to+anything...&mode=iframe" height="200" alt="Lanyard" />
+    <img src="https://lanyard.cnrad.dev/api/1029414207403339806?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=15&idleMessage=Not+listening+to+anything...&mode=iframe" height="220" alt="Lanyard" />
   </a>
 </div>
 <br>
