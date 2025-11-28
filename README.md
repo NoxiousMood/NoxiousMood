@@ -76,6 +76,7 @@ I am very passionate about:
     <img src="https://streak-stats.demolab.com/?user=NoxiousMood&theme=tokyonight&hide_border=true" height="160" alt="Streak" />
   </a>
 <img align="right" width="250" src="https://github.com/NoxiousMood/app-assets/blob/main/Pixel%20Art%20Sticker%20by%20Gavin%20Avid.gif" />
+<img align="left" width="250" src="https://github.com/NoxiousMood/app-assets/blob/main/PixelArtStickerbyGavinAvid-ezgif.com-rotate.gif" />
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
   <a href="https://discord.com/users/1029414207403339806">
