@@ -69,17 +69,17 @@ I am very passionate about:
 <br>
 <hr>
 <br>
-<h3 align="center">GitHub Stats & Currently</h3>
+<h3 align="center">Currently</h3>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=NoxiousMood&theme=tokyonight&hide_border=true" height="160" alt="Streak" />
+    <img src="https://streak-stats.demolab.com/?user=NoxiousMood&theme=tokyonight&hide_border=true" height="140" alt="Streak" />
   </a>
 
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp;
 
   <a href="https://discord.com/users/1029414207403339806">
-    <img src="https://lanyard.cnrad.dev/api/1029414207403339806?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=15&idleMessage=Not+listening+to+anything...&mode=iframe" height="160" alt="Lanyard" />
+    <img src="https://lanyard.cnrad.dev/api/1029414207403339806?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=15&idleMessage=Not+listening+to+anything...&mode=iframe" height="140" alt="Lanyard" />
   </a>
 </div>
 <br>
