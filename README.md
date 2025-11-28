@@ -55,7 +55,7 @@ I am very passionate about:
 **Launch:** Preparing for the first beta release of HandApp!
 
 <br clear="all" />
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -63,7 +63,7 @@ I am very passionate about:
   </a>
 
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoxiousMood" height="150" alt="streak graph" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoxiousMood&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
