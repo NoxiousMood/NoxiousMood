@@ -59,6 +59,8 @@ I am very passionate about:
 <br clear="all" />
 <br>
 
+<img align="right" width="200" src="https://github.com/NoxiousMood/app-assets/blob/main/Pixel%20Art%20Sticker%20by%20Gavin%20Avid.gif" />
+
 <h3 align="center">GitHub Stats</h3>
 
 <div align="center">
