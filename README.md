@@ -49,9 +49,7 @@ I am very passionate about:
 <br>
 **BU Maps:** Planning the user interface for the university map.
 
-<img align="right" width="200" src="https://github.com/NoxiousMood/app-assets/blob/main/Pixel%20Art%20Sticker%20by%20Gavin%20Avid.gif" />
-
-<br>
+<br> <img align="right" width="200" src="https://github.com/NoxiousMood/app-assets/blob/main/Pixel%20Art%20Sticker%20by%20Gavin%20Avid.gif" />
 
 ![Update](https://img.shields.io/badge/Update-Coming_Soon-orange?style=flat-square)
 <br>
