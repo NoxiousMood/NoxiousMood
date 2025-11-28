@@ -75,7 +75,7 @@ I am very passionate about:
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=NoxiousMood&theme=tokyonight&hide_border=true" height="160" alt="Streak" />
   </a>
-
+<img align="right" width="250" src="https://github.com/NoxiousMood/app-assets/blob/main/Pixel%20Art%20Sticker%20by%20Gavin%20Avid.gif" />
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
   <a href="https://discord.com/users/1029414207403339806">
