@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/NoxiousMood/app-assets/commit/9e4e72b03d7dd05809b259cfb853d77f03751dbc#diff-0e274ef52aa47e01b12269da7a56f0ca93b16fc9cb224cecce098ae825fa6c8d" width="100%" alt="Bocchi Banner" />
+  <img src="https://github.com/NoxiousMood/app-assets/blob/main/image%20(1).png" width="100%" alt="Bocchi Banner" />
 </div>
 <br>
 <div align="center">
