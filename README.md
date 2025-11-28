@@ -14,7 +14,7 @@ I'm **NoxiousMood**, a developer and creative designer from the Philippines.
 <br>
 Technology has always fascinated me! My purpose? **Building applications that help people stay safe and connected.** 🔥
 
-<img align="right" width="180" src="https://github.com/NoxiousMood/app-assets/blob/main/Climate%20Change%203D%20Sticker%20by%20Emoji.gif?raw=true" alt="Spinning Earth" />
+<img align="right" width="300" src="https://github.com/NoxiousMood/app-assets/blob/main/Climate%20Change%203D%20Sticker%20by%20Emoji.gif?raw=true" alt="Spinning Earth" />
 
 I am very passionate about:
 
@@ -27,7 +27,7 @@ I am very passionate about:
 
 ### **Present Status**
 
-<img align="right" width="500" src="https://github.com/NoxiousMood/app-assets/blob/main/Pixel%20Art%20Sticker%20by%20Gavin%20Avid.gif" />
+<img align="right" width="300" src="https://github.com/NoxiousMood/app-assets/blob/main/Pixel%20Art%20Sticker%20by%20Gavin%20Avid.gif" />
 
 👉 Learning **Advanced Kodular Animations** & **UI/UX Design** 🎨
 
