@@ -35,7 +35,7 @@ I am very passionate about:
 
 ### **Present Status**
 
-<img align="right" width="250" src="https://github.com/NoxiousMood/app-assets/blob/main/eat.gif" />
+<img align="right" width="500" src="https://github.com/NoxiousMood/app-assets/blob/main/eat.gif" />
 
 👉 Learning **Advanced Kodular Animations** & **UI/UX Design** 🎨
 
