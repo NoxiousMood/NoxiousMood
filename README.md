@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+
 <!--
 **NoxiousMood/NoxiousMood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
