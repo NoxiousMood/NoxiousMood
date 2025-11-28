@@ -13,6 +13,8 @@ I'm a developer and creative designer hailing from the Philippines.
 <br>
 Technology has always fascinated me! My purpose? **Building applications that help people stay safe and connected.** 🔥
 
+<img align="right" width="180" src="https://github.com/NoxiousMood/app-assets/blob/main/Climate%20Change%203D%20Sticker%20by%20Emoji.gif?raw=true" alt="Spinning Earth" />
+
 I am very passionate about:
 
 * **App Development** 📱 (Kodular & Android)
@@ -20,8 +22,4 @@ I am very passionate about:
 * **Disaster Preparedness** 🚨 (HandApp Project)
 * **Mapping Solutions** 🗺️ (BU Maps)
 
-<br>
-
-<div align="center">
-  <img src="https://github.com/NoxiousMood/app-assets/blob/main/Climate%20Change%203D%20Sticker%20by%20Emoji.gif?raw=true" width="180" alt="Spinning Earth" />
-</div>
+<br clear="all" />
