@@ -77,7 +77,7 @@ I am very passionate about:
     <img src="https://streak-stats.demolab.com/?user=NoxiousMood&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
   </a>
 
-  <h3 align="center">🎧 Now Playing</h3>
+  <h3 align="center">Currently</h3>
 
 <div align="center">
   <a href="https://discord.com/users/YOUR_DISCORD_ID">
