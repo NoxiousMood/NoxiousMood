@@ -24,11 +24,9 @@ I am very passionate about:
 * **listening to Music** 🎧
 <br clear="all" />
 <br>
-
 <br>
 <hr>
 <br>
-
 ### **Present Status**
 
 <img align="right" width="250" src="https://github.com/NoxiousMood/app-assets/blob/main/Pixel%20Art%20Sticker%20by%20Gavin%20Avid.gif" />
@@ -62,7 +60,9 @@ I am very passionate about:
 <br clear="all" />
 <br clear="all" />
 <br>
-
+<br>
+<hr>
+<br>
 <h3 align="center">GitHub Stats</h3>
 
 <div align="center">
