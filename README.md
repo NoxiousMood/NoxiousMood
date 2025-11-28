@@ -59,7 +59,7 @@ I am very passionate about:
 <br clear="all" />
 <br>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <div align="center">
 
@@ -72,7 +72,7 @@ I am very passionate about:
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoxiousMood&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoxiousMood&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150" alt="Top Langs" />
   </a>
 
 </div>
