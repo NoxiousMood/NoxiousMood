@@ -7,9 +7,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=It's+wild+out+here" alt="Typing SVG" />
   </a>
 </div>
-# Kamusta! 🇵🇭
+# Kamusta! 
 
-I'm a developer and creative designer hailing from the Philippines.
+I'm a **NoxiusMood** a developer and creative designer from the Philippines.
 <br>
 Technology has always fascinated me! My purpose? **Building applications that help people stay safe and connected.** 🔥
 
@@ -17,9 +17,8 @@ Technology has always fascinated me! My purpose? **Building applications that he
 
 I am very passionate about:
 
-* **App Development** 📱 (Kodular & Android)
-* **Creative Design** 🎨 (Logos, Icons & Clothing)
-* **Disaster Preparedness** 🚨 (HandApp Project)
-* **Mapping Solutions** 🗺️ (BU Maps)
-
+* **App Development** 📱 
+* **Creative Design** 🎨 
+* **Software Editing** 🚨 
+* **listening to Music** 🎧
 <br clear="all" />
