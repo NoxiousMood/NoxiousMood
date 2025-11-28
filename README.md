@@ -63,8 +63,7 @@ I am very passionate about:
     <img src="https://github-readme-stats.vercel.app/api?username=NoxiousMood&theme=tokyonight&show_icons=true&hide_border=true" height="150" alt="stats graph" />
   </a>
 
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=NoxiousMood&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NoxiousMood&theme=transparent&hide_border=true" alt="GitHub Streak" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
