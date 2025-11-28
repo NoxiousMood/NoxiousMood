@@ -7,9 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=It's+wild+out+here" alt="Typing SVG" />
   </a>
 </div>
-<img align="right" width="180" src="https://github.com/NoxiousMood/app-assets/blob/main/Climate%20Change%203D%20Sticker%20by%20Emoji.gif?raw=true" alt="Spinning Earth" />
-
-# Kamusta!
+# Kamusta! 🇵🇭
 
 I'm a developer and creative designer hailing from the Philippines.
 <br>
@@ -17,9 +15,13 @@ Technology has always fascinated me! My purpose? **Building applications that he
 
 I am very passionate about:
 
-* **App Development** 📱
-* **Creative Design** 🎨 
-* **Software Editing** 🚨
-* **Reading & Watching Anime** 🗺️
+* **App Development** 📱 (Kodular & Android)
+* **Creative Design** 🎨 (Logos, Icons & Clothing)
+* **Disaster Preparedness** 🚨 (HandApp Project)
+* **Mapping Solutions** 🗺️ (BU Maps)
 
-<br clear="all" />
+<br>
+
+<div align="center">
+  <img src="https://github.com/NoxiousMood/app-assets/blob/main/Climate%20Change%203D%20Sticker%20by%20Emoji.gif?raw=true" width="180" alt="Spinning Earth" />
+</div>
