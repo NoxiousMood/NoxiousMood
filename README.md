@@ -76,7 +76,14 @@ I am very passionate about:
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=NoxiousMood&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
   </a>
- 
+
+  <h3 align="center">🎧 Now Playing</h3>
+
+<div align="center">
+  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+    <img src="https://lanyard.cnrad.dev/api/1029414207403339806?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=15&idleMessage=Not+listening+to+anything...&mode=iframe" />
+  </a>
+
   
 </div>
 <br>
