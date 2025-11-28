@@ -7,6 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=It's+wild+out+here" alt="Typing SVG" />
   </a>
 </div>
+
 **Kamusta!**
 
 I'm **NoxiousMood**, a developer and creative designer from the Philippines.
