@@ -35,6 +35,8 @@ I get really addicted to somethihng that sparks my creativity especially while *
 <br>
 
 # **Present Status**
+<br>
+<br>
 
 👉 Learning **Advanced Kodular Animations** & **UI/UX Design** 🎨
 
@@ -70,7 +72,7 @@ I get really addicted to somethihng that sparks my creativity especially while *
 <br>
 <hr>
 <br>
-# <h3 align="center">Currently</h3>
+<h3 align="center">Currently</h3>
 
 <div align="center">
   <table>
