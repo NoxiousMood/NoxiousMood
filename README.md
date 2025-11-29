@@ -79,7 +79,6 @@ I am very passionate about:
 <br clear="all" />
 <br clear="all" />
 <br>
-<br>
 <hr>
 <br>
 <h3 align="center">Currently</h3>
