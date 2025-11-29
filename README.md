@@ -21,8 +21,7 @@ I get really addicted to somethihng that sparks my creativity especially while *
 <br>
 <br>
 ## I am very passionate about:
-<br>
-<br>
+
 * **App Development** 📱 
 * **Creative Design** 🎨 
 * **Software Editing** 🚨 
@@ -52,9 +51,8 @@ I get really addicted to somethihng that sparks my creativity especially while *
 <br>
 **HandApp:** Started working on the new Logo and Torch assets.
 
-<img align="right" width="300" src="https://github.com/NoxiousMood/app-assets/blob/main/gorilla.gif" />
-
 <br>
+<img align="right" width="300" src="https://github.com/NoxiousMood/app-assets/blob/main/gorilla.gif" />
 
 ![Update](https://img.shields.io/badge/Update-Oct_2025-blueviolet?style=flat-square)
 <br>
