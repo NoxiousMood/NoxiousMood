@@ -78,7 +78,7 @@ I am very passionate about:
 <br clear="all" />
 <br clear="all" />
 <br>
-<br>
+<br> <img align="left" width="300" src="https://github.com/NoxiousMood/app-assets/blob/main/Pac-Man%202D%20Sticker%20by%20Gorillaz.gif" />
 <hr>
 <br>
 <h3 align="center">Currently</h3>
