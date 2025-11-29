@@ -56,7 +56,6 @@ I am very passionate about:
 ![Update](https://img.shields.io/badge/Update-Nov_28_2025-blue?style=flat-square)
 <br>
 **HandApp:** Started working on the UI and backend integration.
-
 <br>
 
 ![Update](https://img.shields.io/badge/Update-Oct_2025-blueviolet?style=flat-square)
