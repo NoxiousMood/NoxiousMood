@@ -55,7 +55,7 @@ I am very passionate about:
 
 ![Update](https://img.shields.io/badge/Update-Nov_28_2025-blue?style=flat-square)
 <br>
-**HandApp:** Started working on the new Logo and Torch assets.
+**HandApp:** Started working on the UI and backend integration.
 
 <br>
 
