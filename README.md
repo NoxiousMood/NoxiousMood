@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<h5>**Kamusta!**</h5> <img align="center" width="50" src="https://github.com/NoxiousMood/app-assets/blob/main/Murdoc%20Niccals%20Logo%20Sticker%20by%20Gorillaz.gif" />
+# **Kamusta!** <img align="center" width="50" src="https://github.com/NoxiousMood/app-assets/blob/main/Murdoc%20Niccals%20Logo%20Sticker%20by%20Gorillaz.gif" />
 
 I'm **NoxiousMood**, a developer and creative designer from the Philippines.
 <br>
