@@ -69,6 +69,8 @@ I am very passionate about:
 <br>
 **Launch:** Preparing for the first beta release of HandApp!
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=NoxiousMood.NoxiousMood)
+
 <br clear="all" />
 <br clear="all" />
 <br>
