@@ -30,7 +30,7 @@ I am very passionate about:
 * **Software Editing** 🚨
 - After Effects 2025
 * **listening to Music** 🎧
-- Indie, Pop, Rock & little bit of jazz
+- Indie, Pop, Rock & just a little bit of hiphop
 <br clear="all" />
 <br>
 
