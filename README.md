@@ -35,8 +35,7 @@ I get really addicted to somethihng that sparks my creativity especially while *
 <br>
 
 # **Present Status**
-<br>
-<br>
+
 
 👉 Learning **Advanced Kodular Animations** & **UI/UX Design** 🎨
 
