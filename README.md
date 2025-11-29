@@ -20,7 +20,7 @@ I get really addicted to somethihng that sparks my creativity especially while *
 
 <br>
 <br>
-I am very passionate about:
+## I am very passionate about:
 
 * **App Development** 📱 
 * **Creative Design** 🎨 
@@ -34,7 +34,7 @@ I am very passionate about:
 <img align="right" width="300" src="https://github.com/NoxiousMood/app-assets/blob/main/Art%20Floating%20Sticker.gif" />
 <br>
 
-### **Present Status**
+# **Present Status**
 
 👉 Learning **Advanced Kodular Animations** & **UI/UX Design** 🎨
 
@@ -70,7 +70,7 @@ I am very passionate about:
 <br>
 <hr>
 <br>
-<h3 align="center">Currently</h3>
+# <h3 align="center">Currently</h3>
 
 <div align="center">
   <table>
