@@ -14,8 +14,6 @@ I'm **NoxiousMood**, a developer and creative designer from the Philippines.
 <br>
 Technology has always fascinated me! My purpose? **Building applications that help people stay safe and connected.** 🔥
 
-<img align="right" width="300" src="https://github.com/NoxiousMood/app-assets/blob/main/gorilla.gif" />
-
 I get really addicted to somethihng that sparks my creativity especially while **listening to music**, i love to repo and very love to work open source. I tend to be  **curious** when something that confuses me. 
 
 <br>
@@ -23,6 +21,7 @@ I get really addicted to somethihng that sparks my creativity especially while *
 I am very passionate about:
 <br>
 <br>
+<img align="right" width="300" src="https://github.com/NoxiousMood/app-assets/blob/main/gorilla.gif" />
 
 * **App Development** 📱
 - Using React, Javascript, Kotlin, & Swift
