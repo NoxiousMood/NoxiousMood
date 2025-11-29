@@ -80,7 +80,6 @@ I am very passionate about:
 <br clear="all" />
 <br>
 <hr>
-<br>
 <h3 align="center">Currently</h3>
 
 <div align="center">
