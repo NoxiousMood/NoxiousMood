@@ -34,7 +34,7 @@ I get really addicted to somethihng that sparks my creativity especially while *
 <img align="right" width="300" src="https://github.com/NoxiousMood/app-assets/blob/main/Art%20Floating%20Sticker.gif" />
 <br>
 
-#@ **Present Status**
+## **Present Status**
 
 
 👉 Learning **Advanced Kodular Animations** & **UI/UX Design** 🎨
