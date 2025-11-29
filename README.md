@@ -24,10 +24,14 @@ I am very passionate about:
 <br>
 <br>
 
-* **App Development** 📱 
-* **Creative Design** 🎨 
-* **Software Editing** 🚨 
+* **App Development** 📱
+- Using React, Javascript, Kotlin, & Swift
+* **Creative Design** 🎨
+- Using Photoshop, Illustrator & Figma
+* **Software Editing** 🚨
+- After Effects 2025
 * **listening to Music** 🎧
+- Indie, Pop, Rock & little bit of jazz
 <br clear="all" />
 <br>
 
