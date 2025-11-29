@@ -51,6 +51,11 @@ I am very passionate about:
 
 👉 **Listening to Music** while coding 🎧
 
+
+
+
+
+
 <br>
 
 ![Update](https://img.shields.io/badge/Update-Nov_28_2025-blue?style=flat-square)
