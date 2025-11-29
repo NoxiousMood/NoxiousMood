@@ -37,6 +37,7 @@ I get really addicted to somethihng that sparks my creativity especially while *
 <img align="right" width="300" src="https://github.com/NoxiousMood/app-assets/blob/main/Art%20Floating%20Sticker.gif" />
 <br>
 <br>
+
 👉 Learning **Advanced Kodular Animations** & **UI/UX Design** 🎨
 
 👉 Developing **HandApp** (Disaster Preparedness Tool) 🚨
@@ -52,12 +53,11 @@ I get really addicted to somethihng that sparks my creativity especially while *
 **HandApp:** Started working on the new Logo and Torch assets.
 
 <br>
-<img align="right" width="300" src="https://github.com/NoxiousMood/app-assets/blob/main/gorilla.gif" />
 
 ![Update](https://img.shields.io/badge/Update-Oct_2025-blueviolet?style=flat-square)
 <br>
 **BU Maps:** Planning the user interface for the university map.
-
+<img align="right" width="300" src="https://github.com/NoxiousMood/app-assets/blob/main/gorilla.gif" />
 <br>
 
 ![Update](https://img.shields.io/badge/Update-Coming_Soon-orange?style=flat-square)
