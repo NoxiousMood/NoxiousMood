@@ -47,11 +47,11 @@ I am very passionate about:
 
 <br>
 
-<img align="right" width="250" src="https://github.com/NoxiousMood/app-assets/blob/main/gorilla.gif" />
-
 ![Update](https://img.shields.io/badge/Update-Nov_28_2025-blue?style=flat-square)
 <br>
 **HandApp:** Started working on the new Logo and Torch assets.
+
+<img align="right" width="250" src="https://github.com/NoxiousMood/app-assets/blob/main/gorilla.gif" />
 
 <br>
 
