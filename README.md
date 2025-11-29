@@ -74,6 +74,7 @@ I am very passionate about:
 **Launch:** Preparing for the first beta release of HandApp!
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=NoxiousMood.NoxiousMood)
+
 <img align="left" width="200" src="https://github.com/NoxiousMood/app-assets/blob/main/Pac-Man%202D%20Sticker%20by%20Gorillaz.gif" />
 <br clear="all" />
 <br clear="all" />
