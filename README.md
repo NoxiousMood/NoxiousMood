@@ -35,7 +35,7 @@ I am very passionate about:
 
 ### **Present Status**
 
-<img align="right" width="500" src="https://github.com/NoxiousMood/app-assets/blob/main/eat.gif" />
+<img align="right" width="250" src="https://github.com/NoxiousMood/app-assets/blob/main/Art%20Floating%20Sticker.gif" />
 
 👉 Learning **Advanced Kodular Animations** & **UI/UX Design** 🎨
 
@@ -46,6 +46,8 @@ I am very passionate about:
 👉 **Listening to Music** while coding 🎧
 
 <br>
+
+<img align="right" width="250" src="https://github.com/NoxiousMood/app-assets/blob/main/gorilla.gif" />
 
 ![Update](https://img.shields.io/badge/Update-Nov_28_2025-blue?style=flat-square)
 <br>
