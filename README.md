@@ -30,6 +30,7 @@ I am very passionate about:
 <br>
 
 <br>
+<hr>
 <img align="right" width="250" src="https://github.com/NoxiousMood/app-assets/blob/main/Art%20Floating%20Sticker.gif" />
 <br>
 
