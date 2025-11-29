@@ -21,7 +21,8 @@ I get really addicted to somethihng that sparks my creativity especially while *
 <br>
 <br>
 ## I am very passionate about:
-
+<br>
+<br>
 * **App Development** 📱 
 * **Creative Design** 🎨 
 * **Software Editing** 🚨 
@@ -36,8 +37,8 @@ I get really addicted to somethihng that sparks my creativity especially while *
 # **Present Status**
 
 <br>
-<br>
 <img align="right" width="300" src="https://github.com/NoxiousMood/app-assets/blob/main/Art%20Floating%20Sticker.gif" />
+<br>
 👉 Learning **Advanced Kodular Animations** & **UI/UX Design** 🎨
 
 👉 Developing **HandApp** (Disaster Preparedness Tool) 🚨
