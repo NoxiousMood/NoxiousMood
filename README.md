@@ -21,9 +21,8 @@ I get really addicted to somethihng that sparks my creativity especially while *
 <br>
 <br>
 I am very passionate about:
-
-
-
+<br>
+<br>
 * **App Development** 📱 
 * **Creative Design** 🎨 
 * **Software Editing** 🚨 
