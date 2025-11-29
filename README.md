@@ -75,10 +75,10 @@ I am very passionate about:
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=NoxiousMood.NoxiousMood)
 
-<br clear="all" />
+<br clear="all" /> <img align="left" width="200" src="https://github.com/NoxiousMood/app-assets/blob/main/Pac-Man%202D%20Sticker%20by%20Gorillaz.gif" />
 <br clear="all" />
 <br>
-<br> <img align="left" width="300" src="https://github.com/NoxiousMood/app-assets/blob/main/Pac-Man%202D%20Sticker%20by%20Gorillaz.gif" />
+<br>
 <hr>
 <br>
 <h3 align="center">Currently</h3>
