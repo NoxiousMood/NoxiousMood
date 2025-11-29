@@ -31,7 +31,7 @@ I am very passionate about:
 
 <br>
 <hr>
-<img align="right" width="250" src="https://github.com/NoxiousMood/app-assets/blob/main/Art%20Floating%20Sticker.gif" />
+<img align="right" width="300" src="https://github.com/NoxiousMood/app-assets/blob/main/Art%20Floating%20Sticker.gif" />
 <br>
 
 ### **Present Status**
@@ -46,7 +46,7 @@ I am very passionate about:
 
 <br>
 
-<img align="right" width="250" src="https://github.com/NoxiousMood/app-assets/blob/main/gorilla.gif" />
+<img align="right" width="300" src="https://github.com/NoxiousMood/app-assets/blob/main/gorilla.gif" />
 
 ![Update](https://img.shields.io/badge/Update-Nov_28_2025-blue?style=flat-square)
 <br>
