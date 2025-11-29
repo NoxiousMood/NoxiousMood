@@ -32,13 +32,12 @@ I get really addicted to somethihng that sparks my creativity especially while *
 <br>
 <hr>
 <br>
-<br>
-<img align="right" width="300" src="https://github.com/NoxiousMood/app-assets/blob/main/Art%20Floating%20Sticker.gif" />
-<br>
 
 # **Present Status**
 
-
+<br>
+<br>
+<img align="right" width="300" src="https://github.com/NoxiousMood/app-assets/blob/main/Art%20Floating%20Sticker.gif" />
 👉 Learning **Advanced Kodular Animations** & **UI/UX Design** 🎨
 
 👉 Developing **HandApp** (Disaster Preparedness Tool) 🚨
