@@ -14,7 +14,7 @@ I'm **NoxiousMood**, a developer and creative designer from the Philippines.
 <br>
 Technology has always fascinated me! My purpose? **Building applications that help people stay safe and connected.** 🔥
 
-<img align="right" width="300" src="https://github.com/NoxiousMood/app-assets/blob/main/Climate%20Change%203D%20Sticker%20by%20Emoji.gif?raw=true" alt="Spinning Earth" />
+<img align="right" width="300" src="https://github.com/NoxiousMood/app-assets/blob/main/gorilla.gif" />
 
 I get really addicted to somethihng that sparks my creativity especially while **listening to music**, i love to repo and very love to work open source. I tend to be  **curious** when something that confuses me. 
 
@@ -57,7 +57,7 @@ I get really addicted to somethihng that sparks my creativity especially while *
 ![Update](https://img.shields.io/badge/Update-Oct_2025-blueviolet?style=flat-square)
 <br>
 **BU Maps:** Planning the user interface for the university map.
-<img align="right" width="300" src="https://github.com/NoxiousMood/app-assets/blob/main/gorilla.gif" />
+<img align="right" width="300" src="https://github.com/NoxiousMood/app-assets/blob/main/Climate%20Change%203D%20Sticker%20by%20Emoji.gif?raw=true" alt="Spinning Earth" />
 <br>
 
 ![Update](https://img.shields.io/badge/Update-Coming_Soon-orange?style=flat-square)
