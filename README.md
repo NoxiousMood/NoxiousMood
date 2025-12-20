@@ -14,7 +14,7 @@ I'm **NoxiousMood**, a developer and creative designer from the Philippines.
 <br>
 Technology has always fascinated me! My purpose? **Building applications that help people stay safe and connected.** 🔥
 
-I get really addicted to somethihng that sparks my creativity especially while **listening to music**, i love to repo and very love to work open source. I tend to be  **curious** when something that confuses me. 
+I get really addicted to something that sparks my creativity especially while **listening to music**, i love to repo and very love to work open source. I tend to be  **curious** when something that confuses me. 
 
 <br>
 <br>
